@@ -21,3 +21,4 @@ payload:
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN-SUFFIX,dyn.riotcdn.net
   - DOMAIN-SUFFIX,cdn.ubi.com
+  - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
